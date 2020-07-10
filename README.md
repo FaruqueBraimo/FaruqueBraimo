@@ -1,6 +1,5 @@
 
 ## Hi there, I'm Faruque! 👋
-
 ### Software developer, who loves to solve problems with algorithms.
 <br />
 - :100: Take a look at my portfolio site: https://faruquebraimo.netlify.app
