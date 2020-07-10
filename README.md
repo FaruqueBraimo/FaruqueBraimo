@@ -14,9 +14,8 @@
 ## 📫 How to reach me:
 
 <p align='center'>
-<a  href="https://twitter.com/fbraimo"><img height="30"  >
-src="https://github.com/FaruqueBraimo/WaylonWalker/blob/master/icon/twitter.png?raw=true"> </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/faruquebrimo/"><img height="30" src="https://github.com/FaruqueBraimo/WaylonWalker/blob/master/icon/linkedin.png?raw=true"></a>
+<a  href="https://twitter.com/fbraimo"><img height="30"  src="https://github.com/FaruqueBraimo/WaylonWalker/blob/master/icon/twitter.png?raw=true"> </a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/faruquebrimo/"  src="https://github.com/FaruqueBraimo/WaylonWalker/blob/master/icon/linkedin.png?raw=true" > </a>
   
   
 </p>
