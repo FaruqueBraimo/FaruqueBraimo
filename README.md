@@ -1,7 +1,7 @@
 
-### Hi there, I'm Faruque! 👋
+## Hi there, I'm Faruque! 👋
 
-
+### Software developer, who loves to solve problems with algorithms.
 <a href="https://twitter.com/fbraimo">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
@@ -16,3 +16,6 @@
 - 🔭 I’m currently working on my portfolio site)
 - 🌱 I’m currently learning Gatsby, React and Data Structure in Java
 - 💬 Ask me about anything [here](https://github.com/FaruqueBraimo/FaruqueBraimo/issues)
+
+#### Resume
+![Faruque's github stats](https://github-readme-stats.vercel.app/api?username=FaruqueBraimo&show_icons=true)
