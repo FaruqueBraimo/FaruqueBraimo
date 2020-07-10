@@ -13,7 +13,7 @@
 - 💬 **Portuguese** Speaker
 
 ## Tech
-  [Java](https://github.com/topics/java),[javascript](https://github.com/topics/javascript) , [Spring Boot](https://github.com/topics/java), **Vue Js** [Java](https://github.com/topics/java),  [FireBase](https://github.com/topics/java)**, [SQl](https://github.com/topics/java) **,  [Quasar Framework](https://github.com/topics/java)** and more...
+  [Java](https://github.com/topics/java), [javascript](https://github.com/topics/javascript) , [Spring Boot](https://github.com/topics/java), [Vue Js](https://github.com/topics/vuejs),  [FireBase](https://github.com/topics/firebase)**, [SQl](https://github.com/topics/sql) **, [Quasar Framework](https://github.com/topics/quasarframework)** and more...
 
 
 ## 📫 How to reach me:
