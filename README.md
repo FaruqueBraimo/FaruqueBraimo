@@ -12,8 +12,8 @@
 - 💬 Ask me about anything [here](https://github.com/FaruqueBraimo/FaruqueBraimo/issues)
 - 💬 **Portuguese** Speaker
 
-##Tech
- **Java**,  **Javascript**, **Spring Boot**, **Vue Js**, **FireBase**, **SQl**,  **Quasar Framework**.
+## Tech
+  [Java](https://github.com/topics/java),[javascript](https://github.com/topics/javascript) , [Spring Boot](https://github.com/topics/java), **Vue Js** [Java](https://github.com/topics/java),  [FireBase](https://github.com/topics/java)**, [SQl](https://github.com/topics/java) **,  [Quasar Framework](https://github.com/topics/java)** and more...
 
 
 ## 📫 How to reach me:
