@@ -20,5 +20,10 @@
   <a href="https://www.linkedin.com/in/faruquebraimo/"><img height="30" src="https://raw.githubusercontent.com/HugoLiconV/HugoLiconV/master/img/linkedin-green.svg"></a>
 </p>
 
+<p align='center'>
+<a  href="https://twitter.com/fbraimo"><img height="30" src="https://raw.githubusercontent.com/HugoLiconV/HugoLiconV/master/img/twitter-green.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/faruquebrimo/"><img height="30" src="https://raw.githubusercontent.com/HugoLiconV/HugoLiconV/master/img/linkedin-green.svg"></a>
+</p>
+
 #### Resume
 ![Faruque's github stats](https://github-readme-stats.vercel.app/api?username=FaruqueBraimo&show_icons=true)
