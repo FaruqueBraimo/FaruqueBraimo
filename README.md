@@ -1,3 +1,3 @@
-# faruuqebraimo
- a good kind portfolio
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FaruqueBraimo)
+
+## Faruque Braimo
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FaruqueBraimo&hide=["stars"])
