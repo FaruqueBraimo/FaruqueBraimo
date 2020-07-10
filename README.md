@@ -14,7 +14,7 @@
   
 ## internet projects
 - [text-to-speech converter](http://aweaudio.surge.sh/)
-- [learning bantu languages](http://aweaudio.surge.sh/)
+- [learning bantu languages](http://ekoty.surge.sh/)
 
 ## Education
  - **Computer science at UEM**
