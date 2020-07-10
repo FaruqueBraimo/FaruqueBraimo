@@ -12,8 +12,8 @@
 - 💬 Ask me about anything [here](https://github.com/FaruqueBraimo/FaruqueBraimo/issues)
 - 💬 **Portuguese** Speaker
 
-## Tech
-  [Java](https://github.com/topics/java), [javascript](https://github.com/topics/javascript) , [Spring Boot](https://github.com/topics/java), [Vue Js](https://github.com/topics/vuejs),  [FireBase](https://github.com/topics/firebase)**, [SQl](https://github.com/topics/sql) **, [Quasar Framework](https://github.com/topics/quasarframework)** and more...
+## Technologies
+  [Java](https://github.com/topics/java), [javascript](https://github.com/topics/javascript), [Spring Boot](https://github.com/topics/java), [Vue Js](https://github.com/topics/vuejs), [Firebase](https://github.com/topics/firebase), [SQl](https://github.com/topics/sql), [Quasar Framework](https://github.com/topics/quasarframework) and more...
 
 
 ## 📫 How to reach me:
