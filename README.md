@@ -10,7 +10,7 @@
 - 💬 **Portuguese** Speaker
 
 ## Technologies
-  [Java](https://github.com/topics/java), [javascript](https://github.com/topics/javascript), [Spring Boot](https://github.com/topics/java), [Vue Js](https://github.com/topics/vuejs), [Firebase](https://github.com/topics/firebase), [SQl](https://github.com/topics/sql), [Quasar Framework](https://github.com/topics/quasarframework) and more...
+  [Java](https://github.com/topics/java), [javascript](https://github.com/topics/javascript), [Spring Boot](https://github.com/topics/java), [Vue Js](https://github.com/topics/vuejs), [Firebase](https://github.com/topics/firebase), [Sql](https://github.com/topics/sql), [Quasar Framework](https://github.com/topics/quasarframework) and more...
   
 ## internet projects
 - [text-to-speech converter](http://aweaudio.surge.sh/)
