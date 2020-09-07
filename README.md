@@ -15,6 +15,7 @@
 ## internet projects
 - [text-to-speech converter](http://aweaudio.surge.sh/)
 - [learning bantu languages](http://ekoty.surge.sh/)
+- [Stock Managmaent and Product Sale](https://www.youtube.com/watch?v=JT1iQz9R0u8&t=59s)
 
 ## Education
  - **Computer science at UEM**
